@@ -7,6 +7,8 @@ evenNums.Start();
 evenNums.Join();
 Console.WriteLine("Thread finished work");
 
+//testing gitignore
+
 static void PrintEvenNumbers(int start, int end)
 {
 	for (int i = start; i <= end; i++)
