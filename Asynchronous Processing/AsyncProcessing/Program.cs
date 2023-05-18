@@ -1,6 +1,4 @@
-﻿using System.Threading;
-
-int rangeStart = int.Parse(Console.ReadLine()!);
+﻿int rangeStart = int.Parse(Console.ReadLine()!);
 int endRange = int.Parse(Console.ReadLine()!);
 
 Thread evenNums = new Thread(() => PrintEvenNumbers(rangeStart, endRange));
