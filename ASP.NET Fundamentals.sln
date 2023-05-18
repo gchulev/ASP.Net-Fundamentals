@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET Fundamentals", "ASP.NET Fundamentals.csproj", "{D7517BAD-158D-4BFB-9FB4-2787FB1E1A64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProcessing", "AsyncProcessing\AsyncProcessing.csproj", "{D933BF86-3C31-4797-8A70-F355AA17588A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D7517BAD-158D-4BFB-9FB4-2787FB1E1A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7517BAD-158D-4BFB-9FB4-2787FB1E1A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7517BAD-158D-4BFB-9FB4-2787FB1E1A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D933BF86-3C31-4797-8A70-F355AA17588A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D933BF86-3C31-4797-8A70-F355AA17588A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D933BF86-3C31-4797-8A70-F355AA17588A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D933BF86-3C31-4797-8A70-F355AA17588A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
